@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d914527ad755ce41b034466d8e178d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fall: {instanceID: 0}
+  - goldSound: {instanceID: 0}
+  - winSound: {fileID: 8300000, guid: 99cf0fe6fb14eee4f97a7d95096b99f9, type: 3}
+  - oyunKontrol2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
